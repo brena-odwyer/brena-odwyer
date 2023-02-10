@@ -22,7 +22,7 @@
 </div>
   
   <div>
-  # About me 
+# About me 
    Back-end developer, focusing on NodeJS JavaScript, rest API, MongoBD, GitHub and git.
    An anthropologist turned software developer, I worked as a researcher, translator, copywriter, UX writer and digital content writer.
   </div>
