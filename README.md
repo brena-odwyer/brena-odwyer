@@ -20,13 +20,12 @@
   <img align="center" alt="MongoDB" title="MongoDB" height="30" widh="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
 </div>
-  
-  <div>
-# About me 
+
+### About me 
    Back-end developer, focusing on NodeJS JavaScript, rest API, MongoBD, GitHub and git.
    An anthropologist turned software developer, I worked as a researcher, translator, copywriter, UX writer and digital content writer.
-  </div>
- 
+
+ ##
 <div>
   <a href = "mailto:odwyer.brena@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
