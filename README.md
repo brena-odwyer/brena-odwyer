@@ -23,6 +23,7 @@
 
 ### About me 
    Back-end developer, focusing on NodeJS JavaScript, rest API, MongoBD, GitHub and git.
+   Currently working at Zenvia as Jr. Developer.
    An anthropologist turned software developer, I worked as a researcher, translator, copywriter, UX writer and digital content writer.
 
  ##
