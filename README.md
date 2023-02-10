@@ -7,8 +7,8 @@
 :briefcase: Tools: VSCode, Trello, Heroku, GitHub
 <div align="center">
   <a href="https://github.com/brena-odwyer">
-  <img height="160em"src="https://github-readme-stats.vercel.app/api?username=brena-odwyer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brena-odwyer&layout=compact&langs_count=16&theme=github_dark"/> </div>
+  <img height="160em"src="https://github-readme-stats.vercel.app/api?username=brena-odwyer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brena-odwyer&layout=compact&langs_count=16&theme=tokyonight"/> </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
